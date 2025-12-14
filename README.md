@@ -181,7 +181,7 @@ Provides a reproducible, quantitative harness to test quantum-kernel geometry on
 - **Mission assurance**: Reduce false-positive rates in anomaly alerting, preventing unnecessary ground interventions
 - **Small-sat constellations**: Scalable anomaly detection across hundreds of distributed spacecraft with limited downlink bandwidth
 
-### Space Force / Space Command / USSF / AFRL / AFOSR / DIU / DIA / DARPA / IARPA / ODNI / NASIC / NSIC
+### Space Force / Space Command / AFRL / AFOSR / DIU / DARPA / NRO / NASIC
 Demonstrates a concrete **Space Domain Awareness**-style novelty detector with transparent benchmarking, suitable as a seed for classified telemetry integration. Addresses:
 - **Real-time threat detection**: Sub-second inference on streaming telemetry for adversarial maneuvers or proximity operations
 - **Adversarial spoofing identification**: Distinguish genuine anomalies from GPS/RF/optical jamming and false data injection
