@@ -1,7 +1,17 @@
 # Quantum Kernel Telemetry Anomaly Detection
 
+A reproducible testbed for studying quantum-kernel geometry and anomaly separability in realistic telemetry dynamics.
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Quantum kernel methods for anomaly detection in manifold-structured telemetry
+
+This repository implements and benchmarks entanglement-based quantum kernels against classical baselines (RBF, One-Class SVM, Isolation Forest) on synthetic satellite-like telemetry with structured anomalies (drift, impulse, spoofing, dropout). The framework provides reproducible experiments, saved artifacts, and geometry diagnostics to study when quantum feature maps offer measurable advantages in low-data, non-Euclidean regimes.
+
+## Overview
+
+This project explores whether quantum kernels—implemented via entangling feature maps and fidelity-based similarity—can improve anomaly detection when normal behavior lies on a curved, low-dimensional manifold embedded in high-dimensional telemetry space. The emphasis is on reproducibility, honest baselines, and diagnostic insight rather than speculative claims of quantum advantage.
 
 ## Problem / Phenomenon Investigated
 
